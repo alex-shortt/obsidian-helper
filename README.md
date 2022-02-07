@@ -1,2 +1,3 @@
-# obsidian-helper
-helper functions to operate on my obsidian files
+## obisdian-helper
+
+a place to store personal scripts to repair my second brain
