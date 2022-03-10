@@ -1,4 +1,4 @@
-# purpose: fix all the fucked links from roam that should go from [term]([[terms_page]]) to [term](terms_page)
+# purpose: fix all the fucked links from roam that should go from [term]([[terms_page]]) to [term|terms_page]
 
 
 import os
