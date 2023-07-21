@@ -2,7 +2,7 @@ import re
 import os
 from dateutil.parser import parse
 
-path = '../basis-language/' #insert file path to your vault here
+path = '/Users/alex/Desktop/musehq-roam/' #insert file path to your vault here
 
 ### Convert date format in file content
 

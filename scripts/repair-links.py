@@ -4,15 +4,15 @@
 import os
 import re
 
-path_to_vault = "/Users/alex/worlds/basis/basis-language"
+path_to_vault = "/Users/alex/worlds/muse/muse-stories"
 
-test_mode = True
+test_mode = False
 
 # aggregate links while in test mode
 links = []
 
 # in case you wanna test a couple before committing
-max_docs = 1000000
+max_docs = 100000000
 count = 0
 
 for subdir, dirs, files in os.walk(path_to_vault):
